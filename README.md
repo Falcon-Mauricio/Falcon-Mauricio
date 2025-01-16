@@ -5,4 +5,3 @@
 - 🎓 I graduated as an Electronic Technician from E.E.S.T. Nº5 "2 DE ABRIL" TEMPERLEY 🇦🇷
 - 🔭 I’m currently working on [**El Coyote**](https://github.com/DERTECH-CORP/Velocista_COYOTE)
 - 🌱 I’m currently learning **TypeScript**
-- 📫 How to reach me: **mauriciofalcon1304@gmail.com**
