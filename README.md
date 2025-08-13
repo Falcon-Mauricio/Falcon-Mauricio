@@ -35,8 +35,8 @@
 ## 🌟 Featured Projects  
 🔹 **[Damashi – Interdisciplinary Competition Robot](https://github.com/Falcon-Mauricio/TriBot_Damashi)**  
 🔹 **[Loto – Flower Line Follower Competition Robot](https://github.com/Falcon-Mauricio/LineFollower_Loto)**  
-🔹 **[El Coyote – Line Follower Competition Robot](https://github.com/DERTECH-CORP/Velocista_COYOTE)**  
-🔹 **[Gastify – Expense Tracker App](#)** *(Node.js + TypeScript)*  
+🔹 **[El Coyote – Line Follower Competition Robot](https://github.com/Falcon-Mauricio/Velocista_COYOTE)**  
+🔹 **[Gastify – Expense Tracker App]** *(Node.js + TypeScript)*  
 
 ---
 
