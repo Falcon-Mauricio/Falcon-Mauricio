@@ -1,11 +1,11 @@
 # Hello there! I'm **Mauricio Falcon**  
 
-💻 **Full Stack Developer | Maker | Robotics Enthusiast**  
+💻 **Full Stack Developer | Maker | Robotics & Embedded Systems Specialist**  
 🚀 Passionate about building **integrated solutions** that connect **software and hardware**.
 
 ---
 
-## 🧠 About Me  
+## About Me  
 - 🌍 From **Argentina** 🇦🇷  
 - 🎓 **Engineering in Information Systems** student at **UTN**  
 - 🎓 **Soon-to-be IT Systems Technician** (AHK – German-Argentinian Chamber)  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🌟 Featured Projects  
+## Featured Projects  
 🔹 **[Damashi – Interdisciplinary Competition Robot](https://github.com/Falcon-Mauricio/TriBot_Damashi)**  
 🔹 **[Loto – Flower Line Follower Competition Robot](https://github.com/Falcon-Mauricio/LineFollower_Loto)**  
 🔹 **[El Coyote – Line Follower Competition Robot](https://github.com/Falcon-Mauricio/Velocista_COYOTE)**  
@@ -40,7 +40,7 @@
 
 ---
 
-## 📫 Let's Connect  
+## Let's Connect  
 <p>
 <a href="https://www.linkedin.com/in/mauricio-falcon-ddt/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 <a href="mailto:mauriciofalcon1304@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40"/></a>
