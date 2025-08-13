@@ -36,6 +36,7 @@
 🔹 **[Damashi – Interdisciplinary Competition Robot](https://github.com/Falcon-Mauricio/TriBot_Damashi)**  
 🔹 **[Loto – Flower Line Follower Competition Robot](https://github.com/Falcon-Mauricio/LineFollower_Loto)**  
 🔹 **[El Coyote – Line Follower Competition Robot](https://github.com/Falcon-Mauricio/Velocista_COYOTE)**  
+🔹 **[Kairimi – Robot Triatlon - Robotics Champion (Juegos Bonaerenses 2022 & 2023)](https://github.com/Falcon-Mauricio/Triatlon_B2023)**  
 🔹 **[Gastify – Expense Tracker App]** *(Node.js + TypeScript)*  
 
 ---
