@@ -34,17 +34,16 @@
   <img width="40" height="40" align="left" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/> 
 </p>
 
-  <br />
-</p>
+<br clear="both"/>
 
 ---
 
 ## Featured Projects  
-🔹 **[Damashi – Interdisciplinary Competition Robot](https://github.com/Falcon-Mauricio/TriBot_Damashi)**  
-🔹 **[Loto – Flower Line Follower Competition Robot](https://github.com/Falcon-Mauricio/LineFollower_Loto)**  
-🔹 **[El Coyote – Line Follower Competition Robot](https://github.com/Falcon-Mauricio/Velocista_COYOTE)**  
-🔹 **[Kairimi – Robot Triatlon - Robotics Champion (Juegos Bonaerenses 2022 & 2023)](https://github.com/Falcon-Mauricio/Triatlon_B2023)**  
-🔹 **[Gastify – Expense Tracker App]** *(Node.js + TypeScript)*  
+- **[Damashi – Interdisciplinary Competition Robot](https://github.com/Falcon-Mauricio/TriBot_Damashi)**  
+- **[Loto – Flower Line Follower Competition Robot](https://github.com/Falcon-Mauricio/LineFollower_Loto)**  
+- **[El Coyote – Line Follower Competition Robot](https://github.com/Falcon-Mauricio/Velocista_COYOTE)**  
+- **[Kairimi – Robot Triatlon - Robotics Champion (Juegos Bonaerenses 2022 & 2023)](https://github.com/Falcon-Mauricio/Triatlon_B2023)**  
+- **[Gastify – Expense Tracker App]** *(Node.js + TypeScript)*  
 
 ---
 
