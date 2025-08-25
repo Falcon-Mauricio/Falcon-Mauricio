@@ -11,7 +11,7 @@
 - 🎓 **Soon-to-be IT Systems Technician** (AHK – German-Argentinian Chamber)  
 - 🏆 **2x Robotics Champion** (Juegos Bonaerenses 2022 & 2023)    
 - 🔧 **Former Electronic Technician** at *E.E.S.T. Nº5 "2 DE ABRIL"*  
-- 🛠 Currently working on **Damashi** – an **interdisciplinary competition robot**  
+- 🛠 Currently working on **Damashi** – a **sumo competition robot**  
 - 📚 Learning **Angular**, **Node.js**, and **TypeScript**  
 
 ---
