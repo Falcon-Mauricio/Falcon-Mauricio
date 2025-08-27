@@ -39,7 +39,7 @@
 ---
 
 ## Featured Projects  
-- 🗡️ **[Damashi – Interdisciplinary Competition Robot](https://github.com/Falcon-Mauricio/TriBot_Damashi)**  
+- 🗡️ **[Damashi – Sumo Competition Robot](https://github.com/Falcon-Mauricio/Sumo_Damashi)**  
 - 🌸 **[Loto – Flower Line Follower Competition Robot](https://github.com/Falcon-Mauricio/LineFollower_Loto)**
 - <img src="./assets/willy-e-coyote-logo.png" width="20" height="20"> **[El Coyote – Line Follower Competition Robot](https://github.com/Falcon-Mauricio/Velocista_COYOTE)**
 - 🏆 **[Kairimi – Robot Triatlon - Robotics Champion (Juegos Bonaerenses 2022 & 2023)](https://github.com/Falcon-Mauricio/Triatlon_B2023)**  
